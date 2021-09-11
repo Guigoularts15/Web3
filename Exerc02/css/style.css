@@ -1,0 +1,45 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: #800080;
+}
+
+body {
+    background-image:url('../img/img01.png');
+    background-repeat: no-repeat;
+}
+
+p {
+    color: #ff0000;
+}
+
+#a1 {
+    color: #0000ff;
+}
+
+.cor2 {
+    color: #008000;
+}
+
+h1 {
+    background-color: #ffff00;
+}
+
+h2 {
+    height: 150px;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0000ff;
+    font-size: 36px;
+}
+
+a {
+    text-decoration: none;
+}
+
+div {
+    width: 200px;height: 100px;
+    background-color: #ffa500;
+}
